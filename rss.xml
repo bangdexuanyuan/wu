@@ -2,15 +2,15 @@
 <rss version="2.0">
     <channel>
         <title>bangdexuanyuan</title>
-        <link>https://shoka.lostyu.me</link>
+        <link>https://bangdexuanyuan.github.io</link>
         <description>欢迎来到邦的轩辕的博客，我会在这里记录生活和学习，欢迎大家进行交流</description>
         <language>zh-CN</language>
         <pubDate>Mon, 28 Aug 2023 22:25:39 +0800</pubDate>
         <lastBuildDate>Mon, 28 Aug 2023 22:25:39 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://shoka.lostyu.me/2023/08/28/hello-world/</guid>
+            <guid isPermalink="true">https://bangdexuanyuan.github.io/2023/08/28/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://shoka.lostyu.me/2023/08/28/hello-world/</link>
+            <link>https://bangdexuanyuan.github.io/2023/08/28/hello-world/</link>
             <pubDate>Mon, 28 Aug 2023 22:25:39 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;hello-hexo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hello-hexo&#34;&gt;#&lt;/a&gt; Hello Hexo&lt;/h2&gt;
